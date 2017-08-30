@@ -1,0 +1,7 @@
+C:\Users\kumar_000\Documents\Visual Studio 2012\Projects\C# course projects And Concepts\WageManagement\WageManagement\WageManagement\bin\Debug\WageManagement.exe.config
+C:\Users\kumar_000\Documents\Visual Studio 2012\Projects\C# course projects And Concepts\WageManagement\WageManagement\WageManagement\bin\Debug\WageManagement.exe
+C:\Users\kumar_000\Documents\Visual Studio 2012\Projects\C# course projects And Concepts\WageManagement\WageManagement\WageManagement\bin\Debug\WageManagement.pdb
+C:\Users\kumar_000\Documents\Visual Studio 2012\Projects\C# course projects And Concepts\WageManagement\WageManagement\WageManagement\obj\Debug\WageManagement.csprojResolveAssemblyReference.cache
+C:\Users\kumar_000\Documents\Visual Studio 2012\Projects\C# course projects And Concepts\WageManagement\WageManagement\WageManagement\obj\Debug\WageManagement.csproj.ResolveComReference.cache
+C:\Users\kumar_000\Documents\Visual Studio 2012\Projects\C# course projects And Concepts\WageManagement\WageManagement\WageManagement\obj\Debug\WageManagement.exe
+C:\Users\kumar_000\Documents\Visual Studio 2012\Projects\C# course projects And Concepts\WageManagement\WageManagement\WageManagement\obj\Debug\WageManagement.pdb
